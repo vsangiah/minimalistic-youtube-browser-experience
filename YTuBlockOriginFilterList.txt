@@ -80,6 +80,7 @@ www.youtube.com##div#shorts-player
 www.youtube.com##div.navigation-container.style-scope.ytd-shorts
 www.youtube.com##a#endpoint[title="Shorts"]
 www.youtube.com##.ytp-cued-thumbnail-overlay
+www.youtube.com##ytm-shorts-lockup-view-model-v2.ShortsLockupViewModelHost
 
 ! hide the tab under the pane
 www.youtube.com##div.yt-tab-group-shape-wiz__slider
