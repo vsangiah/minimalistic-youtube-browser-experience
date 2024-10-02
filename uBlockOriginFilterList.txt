@@ -5,7 +5,7 @@ www.youtube.com##ytd-feed-filter-chip-bar-renderer.style-scope.ytd-rich-grid-ren
 
 ! hide icons and newness on left pane
 www.youtube.com##yt-icon.guide-icon.style-scope.ytd-guide-entry-renderer
-www.youtube.com##yt-img-shadow.style-scope.ytd-guide-entry-renderer
+www.youtube.com##yt-img-shadow.style-scope.ytd-guide-entry-renderer.no-transition
 www.youtube.com##div#newness-dot
 
 ! hide yt icon at the top left
