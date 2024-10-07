@@ -109,7 +109,6 @@ www.youtube.com##div#expandable-metadata
 ! hide emojis in comment section
 www.youtube.com##span.yt-core-attributed-string--inline-block-mod
 
-! hide emojis in titles - WORK IN PROGRESS
-!www.youtube.com##yt-formatted-string:has-text(<emoji>)
-
+!! hide chat section in live streams
+www.youtube.com##div#chat-container
 
