@@ -2,7 +2,7 @@
 
 Welcome!
 
-This project provides a filter list designed to enhance your YouTube browsing by hiding distracting elements. With `YTuBlockOriginFilterList.txt`, you can suppress flashy thumbnails, YouTube channel icons and badges, tempting YouTube Shorts suggestions, live stream chat, and prevent accessing YouTube Shorts entirely. 
+This project provides a filter list designed to enhance your YouTube browsing by hiding distracting elements. With `ytFilterList.txt`, you can suppress flashy thumbnails, YouTube channel icons and badges, tempting YouTube Shorts suggestions, live stream chat, and prevent accessing YouTube Shorts entirely. 
 
 ## Features
 
