@@ -52,4 +52,5 @@ www.youtube.com##div#avatar-section
 www.youtube.com##div#expandable-metadata
 www.youtube.com##span.yt-core-attributed-string--inline-block-mod
 www.youtube.com##div#chat-container
-www.youtube.com##style-scope.ytd-grid-channel-renderer.no-transition
+www.youtube.com##yt-img-shadow.style-scope.ytd-grid-channel-renderer.no-transition
+www.youtube.com##.yt-collection-thumbnail-view-model
