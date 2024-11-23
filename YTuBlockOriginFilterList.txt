@@ -1,79 +1,43 @@
-!! yt homepage stuff
-
-! hide chip
+[Adblock Plus 2.0]
+! Title: YouTube Productivity Improvement List
+! Version: 2024-11-23
+! Author: Venkatesh Sangiah Karuppiah
+! Description: Let's override the YouTube Algorithm that steals people's time by filtering some unwanted elements for clean surfing.
+! Last modified: 2024-11-23
+!
 www.youtube.com##ytd-feed-filter-chip-bar-renderer.style-scope.ytd-rich-grid-renderer
-
-! hide icons and newness on left pane
 www.youtube.com##yt-icon.guide-icon.style-scope.ytd-guide-entry-renderer
 www.youtube.com##yt-img-shadow.style-scope.ytd-guide-entry-renderer.no-transition
 www.youtube.com##div#newness-dot
-
-! hide yt icon at the top left
 www.youtube.com##yt-icon#logo-icon.style-scope.ytd-logo
 www.youtube.com##span.style-scope.ytd-topbar-logo-renderer
-
-! hide thumbnails,
 www.youtube.com##.style-scope.ytd-thumbnail
 www.youtube.com##div#thumbnail-container
 www.youtube.com##ytd-video-preview.style-scope.ytd-app
 www.youtube.com##div#thumbnail.style-scope.ytd-rich-grid-media
-
-! hide channel badge, verified badge, viewcount
 www.youtube.com##span.inline-metadata-item.style-scope.ytd-video-meta-block
 www.youtube.com##div#avatar-container
 www.youtube.com##ytd-badge-supported-renderer.style-scope.ytd-channel-name
 www.youtube.com##ytd-badge-supported-renderer.video-badge
-
-! hide shorts section
 www.youtube.com##div#content.style-scope.ytd-rich-section-renderer
-
-! hide any continuation ghost cards
 www.youtube.com##div#ghost-cards
-
-
-!! video playing page stuff
-
-! hide top categories tape
 www.youtube.com##yt-related-chip-cloud-renderer
-
-! hide shorts section
 www.youtube.com##ytd-reel-shelf-renderer
-
-!hide channel icon
 www.youtube.com##a.yt-simple-endpoint.style-scope.ytd-video-owner-renderer
 www.youtube.com##yt-img-shadow#thumbnail
-
-! hide commentor's profilepic and engagement buttons:
 www.youtube.com##div#author-thumbnail
 www.youtube.com##div#toolbar.style-scope.ytd-comment-engagement-bar
 www.youtube.com##div#creator-thumbnail.creator-thumbnail.style-scope.ytd-comment-replies-renderer
 www.youtube.com##yt-image-shadow.author-thumbnail
-
-! hide playlist and video thumbnail
 www.youtube.com##ytd-playlist-thumbnail
 www.youtube.com##ytd-thumbnail
-
-! hide includes paid promotion and live badge
 www.youtube.com##.ytp-paid-content-overlay
 www.youtube.com##ytd-badge-supported-renderer.badge-style-type-live-now-alternate
-
-! hide related skeleton
 www.youtube.com##div#related-skeleton
-
-! hide the live buttons
 www.youtube.com##ytd-badge-supported-renderer.badges.style-scope.ytd-compact-video-renderer
-
-! remove always shown item on try youtube kids youtube premium ads
 www.youtube.com##div#always-shown.style-scope.ytd-metadata-row-container-renderer
-
-
-!! channel page stuff
-
-! hide channel icon and banner
 www.youtube.com##div#page-header-banner.style-scope.ytd-tabbed-page-header
 www.youtube.com##yt-decorated-avatar-view-model.yt-decorated-avatar-view-model-wiz.page-header-view-model-wiz__page-header-headline-image
-
-! hide shorts and its sections in the pane
 www.youtube.com##yt-tab-shape[tab-title="Shorts"]
 www.youtube.com##div#shorts-container
 www.youtube.com##div#shorts-player
@@ -81,34 +45,10 @@ www.youtube.com##div.navigation-container.style-scope.ytd-shorts
 www.youtube.com##a#endpoint[title="Shorts"]
 www.youtube.com##.ytp-cued-thumbnail-overlay
 www.youtube.com##ytm-shorts-lockup-view-model-v2.ShortsLockupViewModelHost
-
-! hide the tab under the pane
 www.youtube.com##div.yt-tab-group-shape-wiz__slider
-
-
-
-!! search results page stuff
-
-! hide chip bar
 www.youtube.com##div#chip-bar
-
-
-! hide channel icon
 www.youtube.com##a#channel-thumbnail
-
-
-! hide the channel icons
 www.youtube.com##div#avatar-section
-
-! hide the expandable data - chapters important moments
 www.youtube.com##div#expandable-metadata
-
-
-!! removing emojis 
-
-! hide emojis in comment section
 www.youtube.com##span.yt-core-attributed-string--inline-block-mod
-
-!! hide chat section in live streams
 www.youtube.com##div#chat-container
-
