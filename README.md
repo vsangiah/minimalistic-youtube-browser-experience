@@ -32,8 +32,8 @@ To use these filters, follow the steps below:
    - For AdBlock Plus, navigate to Settings (gear icon) > Advanced > get to the 'Filters' section
 
 3. **Adding Filters**:
-   - For uBlock Origin, copy and paste the filters from `YTuBlockOriginFilterList.txt` into the filter list section, or use the 'Import and Append' option on the text file to directly append the contents of the text.
-   - For AdBlock Plus, use the 'Add Filter List via URL' option and copy paste the raw text URL of the `YTuBlockOriginFilterList.txt`: https://raw.githubusercontent.com/vsangiah/minimalistic-youtube-browser-experience/refs/heads/main/YTuBlockOriginFilterList.txt
+   - For uBlock Origin, copy and paste the filters from `ytFilterList.txt` into the filter list section, or use the 'Import and Append' option on the text file to directly append the contents of the text.
+   - For AdBlock Plus, use the 'Add Filter List via URL' option and copy paste the raw text URL of the `ytFilterList.txt`: https://raw.githubusercontent.com/vsangiah/minimalistic-youtube-browser-experience/refs/heads/main/YTuBlockOriginFilterList.txt
 
 4. **Browse YouTube**:
    - Visit [YouTube](https://www.youtube.com) to experience a cleaner, distraction-free interface.
