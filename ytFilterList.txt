@@ -58,3 +58,4 @@ www.youtube.com##.yt-collection-thumbnail-view-model
 www.youtube.com##a.yt-simple-endpoint.style-scope.ytd-playlist-header-renderer
 www.youtube.com##ytd-playlist-byline-renderer.style-scope.ytd-playlist-header-renderer
 www.youtube.com##ytd-item-section-renderer.style-scope.ytd-section-list-renderer
+www.youtube.com##img.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
