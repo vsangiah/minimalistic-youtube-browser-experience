@@ -29,7 +29,6 @@ www.youtube.com##div#author-thumbnail
 www.youtube.com##div#toolbar.style-scope.ytd-comment-engagement-bar
 www.youtube.com##div#creator-thumbnail.creator-thumbnail.style-scope.ytd-comment-replies-renderer
 www.youtube.com##yt-image-shadow.author-thumbnail
-www.youtube.com##ytd-playlist-thumbnail
 www.youtube.com##ytd-thumbnail
 www.youtube.com##ytd-thumbnail.style-scope.ytd-video-renderer
 www.youtube.com##.ytp-paid-content-overlay
@@ -54,9 +53,8 @@ www.youtube.com##div#expandable-metadata
 www.youtube.com##span.yt-core-attributed-string--inline-block-mod
 www.youtube.com##div#chat-container
 www.youtube.com##yt-img-shadow.style-scope.ytd-grid-channel-renderer.no-transition
-www.youtube.com##.yt-collection-thumbnail-view-model
-www.youtube.com##a.yt-simple-endpoint.style-scope.ytd-playlist-header-renderer
-www.youtube.com##ytd-playlist-byline-renderer.style-scope.ytd-playlist-header-renderer
-www.youtube.com##ytd-item-section-renderer.style-scope.ytd-section-list-renderer
-www.youtube.com##img.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
-www.youtube.com##div#chip-bar.style-scope.ytd-search-header-renderer
+www.youtube.com##a.yt-collection-thumbnail-view-model
+www.youtube.com##a.yt-lockup-view-model-wiz__content-image
+www.youtube.com##ytd-playlist-thumbnail.ytd-grid-playlist-renderer
+www.youtube.com##ytd-recognition-shelf-renderer
+www.youtube.com##.yt-channel-external-link-view-model-wiz__favicon
